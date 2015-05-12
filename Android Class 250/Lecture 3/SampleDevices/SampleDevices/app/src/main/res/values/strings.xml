@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">SampleDevices</string>
-
-    <string name="app_desc">This sample app demos how to support multiple devices.</string>
-    <string name="action_camera">Camera</string>
-</resources>
