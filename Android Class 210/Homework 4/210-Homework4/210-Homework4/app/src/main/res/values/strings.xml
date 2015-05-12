@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">210-Homework4</string>
+    <string name="add_task_instr">Please add a task:</string>
+    <string name="action_add">Add</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
