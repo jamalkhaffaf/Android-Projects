@@ -14,8 +14,8 @@ public class TaskDbHelper extends SQLiteOpenHelper {
 
     public static final String TASK_TABLE_NAME = TaskContract.Task.TABLE_NAME;
     public static final String TASK_ROW_ID = TaskContract.Task.ID;
-    public static final String TASK_ROW_NAME = TaskContract.Task.TABLE_NAME;
-    public static final String TASK_ROW_DESC = TaskContract.Task.TABLE_DESC;
+    public static final String TASK_ROW_NAME = TaskContract.Task.TASK_NAME;
+    public static final String TASK_ROW_DESC = TaskContract.Task.TASK_DESC;
 
     public static final String TASK_TABLE_CREATE = "CREATE TABLE " + TASK_TABLE_NAME + " (" +
             TASK_ROW_ID + " INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL," +
